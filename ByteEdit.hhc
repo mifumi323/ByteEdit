@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="ByteEdit ヘルプ">
+		<param name="Local" value="HTML\index.html">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="インストール・アンインストール">
+			<param name="Local" value="HTML\install.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="使い方">
+			<param name="Local" value="HTML\howto.html">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="基本的な操作">
+				<param name="Local" value="HTML\basic.html">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="メニュー">
+				<param name="Local" value="HTML\menu.html">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ファイル">
+					<param name="Local" value="HTML\menufile.html">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="新規作成">
+						<param name="Local" value="HTML\menufile.html#new">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="開く">
+						<param name="Local" value="HTML\menufile.html#open">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="上書き保存">
+						<param name="Local" value="HTML\menufile.html#save">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="名前を付けて保存">
+						<param name="Local" value="HTML\menufile.html#saveas">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="終了">
+						<param name="Local" value="HTML\menufile.html#exit">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="編集">
+					<param name="Local" value="HTML\menuedit.html">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="元に戻す">
+						<param name="Local" value="HTML\menuedit.html#undo">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="切り取り">
+						<param name="Local" value="HTML\menuedit.html#cut">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="コピー">
+						<param name="Local" value="HTML\menuedit.html#copy">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="貼り付け">
+						<param name="Local" value="HTML\menuedit.html#paste">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="削除">
+						<param name="Local" value="HTML\menuedit.html#delete">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="すべて選択">
+						<param name="Local" value="HTML\menuedit.html#selectall">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="検索">
+						<param name="Local" value="HTML\menuedit.html#find">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="選択内容を検索">
+						<param name="Local" value="HTML\menuedit.html#findsel">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="次を検索">
+						<param name="Local" value="HTML\menuedit.html#findnext">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="オプション">
+					<param name="Local" value="HTML\menuoption.html">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="一行の桁数">
+						<param name="Local" value="HTML\menuoption.html#digits">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="区切り">
+						<param name="Local" value="HTML\menuoption.html#pauses">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="データ表示形式">
+						<param name="Local" value="HTML\menuoption.html#viewtype">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="案内表示形式">
+						<param name="Local" value="HTML\menuoption.html#guidetype">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="ヘルプ">
+					<param name="Local" value="HTML\menuhelp.html">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="目次">
+						<param name="Local" value="HTML\menuhelp.html#index">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="トピックで検索">
+						<param name="Local" value="HTML\menuhelp.html#contents">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="キーワードで検索">
+						<param name="Local" value="HTML\menuhelp.html#find">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="バージョン情報">
+						<param name="Local" value="HTML\menuhelp.html#about">
+						</OBJECT>
+				</UL>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="バグ・制限事項">
+			<param name="Local" value="HTML\bugs.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="履歴">
+			<param name="Local" value="HTML\history.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="その他">
+			<param name="Local" value="HTML\other.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

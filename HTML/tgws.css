@@ -1,0 +1,153 @@
+body {
+	background-color:	#ffffc0;
+	color:			#000000;
+	text-align:		left;
+	margin-left:		10%;
+	margin-right:		10%;
+}
+.wide {
+	margin-left:		5%;
+	margin-right:		5%;
+}
+
+h1 {
+	color:			#0000c0;
+	font:			normal normal bold 200%;
+	text-align:		center;
+}
+h2 {
+	color:			#008080;
+	font:			normal normal bold 150%;
+}
+h3 {
+	color:			#008000;
+	font:			normal normal bold 120%;
+}
+
+li {
+	text-align:		left;
+}
+li.cnt {
+	margin-top:		1em;
+}
+
+.info {
+	text-align:		right;
+	font-size:		80%;
+}
+.navi {
+	text-align:		center;
+	font-size:		80%
+}
+.center {
+	text-align:		center;
+}
+li.navi {
+	display:		inline;
+	font-size:		100%;
+}
+
+a:link {
+	color:			#0000ff;
+	text-decoration:	underline;
+}
+a:visited {
+	color:			#800080;
+	text-decoration:	underline;
+}
+a:active {
+	color:			#ff0000;
+	text-decoration:	underline;
+}
+a.notyet {
+	text-decoration:	underline;
+}
+a.unlink {
+	text-decoration:	underline line-through;
+}
+
+table, td, th {
+	border:			1px solid;
+}
+table {
+	border-left-color:	#ffffff;
+	border-top-color:	#ffffff;
+	border-right-color:	#808080;
+	border-bottom-color:	#808080;
+	empty-cells:		show;
+	border-collapse:	separate;
+}
+td, th {
+	border-left-color:	#808080;
+	border-top-color:	#808080;
+	border-right-color:	#ffffff;
+	border-bottom-color:	#ffffff;
+	text-align:		left;
+}
+th {
+	text-align:		center;
+	white-space:		nowrap;
+}
+th.wrap {
+	white-space:		normal;
+}
+thead {
+	background-color:	#dddddd;
+}
+caption {
+	text-align:		center;
+	color:			#008000;
+	font:			normal normal bold 120%;
+}
+col.link {
+	background-color:	#ddffdd;
+}
+col.desc {
+	background-color:	#ffddbb;
+}
+col.need {
+	background-color:	#ffd0d0;
+}
+.tc {
+	text-align:		center;
+	margin-left:		auto;
+	margin-right:		auto;
+}
+
+table.menu {
+	width:			100%;
+	margin-top:		1em;
+}
+
+s.cancel {
+	color:			#c00000;
+	text-decoration:	line-through;
+}
+.correct {
+	color:			#c00000;
+}
+
+dt {
+	font-weight:		bold;
+}
+dl, ol, ul {
+	background-image:	url(grad.png);
+	background-repeat:	repeat-y;
+	background-position:	left;
+}
+
+blockquote {
+	font-style:		italic;
+}
+
+.shout {
+	font-size: 200%;
+	color: #ff0000;
+}
+
+pre.code {
+	background-color:	#ffffff;
+	border:			1px solid #808080;
+	padding:		1px;
+	font-size:		80%;
+}

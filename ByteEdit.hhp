@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ByteEdit.chm
+Contents file=ByteEdit.hhc
+Default topic=HTML\index.html
+Display compile progress=No
+Language=0x411 “ú–{Œê
+Title=ByteEdit ƒwƒ‹ƒv
+
+
+[FILES]
+HTML\index.html
+HTML\install.html
+HTML\howto.html
+HTML\basic.html
+HTML\menu.html
+HTML\menuedit.html
+HTML\menufile.html
+HTML\menuhelp.html
+HTML\menuoption.html
+HTML\history.html
+HTML\other.html
+HTML\bugs.html
+
+[INFOTYPES]
+
